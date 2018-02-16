@@ -5,7 +5,13 @@ how to organize the project.
 
 ## Repository Organization
 
-The Repository should be organized as following:
+Each Hackabilty Project **must be** well documented and organized in order to be considered concluded. There is no a general rule on how to document a project. What you must to is enable an user with good knowledge 
+to replicate and improbe your project without much effort. Ence, you must organize and document the 
+project in a propre way!
+Except for the `README.md` file, **that is mandatory**, here you can find an guide line on how to organize 
+your GitHun Project repo. 
+
+### The Repository should be organized as following
 
  - `README.md`. Put here general information about the project. This file must be written in [Markdown]()
     1. Name and high level description of the project,
@@ -30,3 +36,10 @@ You can publish your project on every sharing platform you prefer. Please add on
 
 You can create the project repository on your personal GitHub account or organization. Once the project
 is concluded and documented, Hackability will fork your repo on the [Hackability official GitHub Page](https://github.com/HackabilityNPO).
+
+## License
+
+TO BE DEFINED
+
+## Contributors
+ - [Ludovico Russo](https://github.com/ludusrusso)
