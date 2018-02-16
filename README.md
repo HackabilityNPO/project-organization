@@ -37,9 +37,9 @@ You can publish your project on every sharing platform you prefer. Please add on
 You can create the project repository on your personal GitHub account or organization. Once the project
 is concluded and documented, Hackability will fork your repo on the [Hackability official GitHub Page](https://github.com/HackabilityNPO).
 
-## License
+## License
 
 TO BE DEFINED
 
-## Contributors
+## Contributors
  - [Ludovico Russo](https://github.com/ludusrusso)
