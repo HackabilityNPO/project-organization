@@ -3,6 +3,8 @@
 Each Hackability project will be published on the [Hackability official GitHub Page](https://github.com/HackabilityNPO). Take this repository as a starting point on
 how to organize the project.
 
+![Hackability Logo](images/logo.jpg)
+
 ## Repository Organization
 
 Each Hackabilty Project **must be** well documented and organized in order to be considered concluded. There is no a general rule on how to document a project. What you must to is enable an user with good knowledge 
@@ -28,7 +30,7 @@ your GitHun Project repo.
 - `images/`. Put here all images (including photos of the work, schematics, etc.)
 - `videos/`. Put here all videos produced. If videos have been published to different platofrm (like YouTube), include a file `videos/external.md` with links to external videos.
 
-## Project Publication
+## Where I can Share my project?
 
 You can publish your project on every sharing platform you prefer. Please add on the README.md file of your repo project all information about other platform where the project exists.
 
@@ -36,6 +38,14 @@ You can publish your project on every sharing platform you prefer. Please add on
 
 You can create the project repository on your personal GitHub account or organization. Once the project
 is concluded and documented, Hackability will fork your repo on the [Hackability official GitHub Page](https://github.com/HackabilityNPO).
+
+## General Nodes
+
+When publishing files, please include both proprietary editable and open format of the same file.
+
+Include all foto material on this repo! Not link images from external links. 
+
+Use Markdown for documentation. You can find a [here great introduction to markdown](https://guides.github.com/features/mastering-markdown/) and some [nice tutorials here](https://www.markdowntutorial.com/).
 
 ## License
 
