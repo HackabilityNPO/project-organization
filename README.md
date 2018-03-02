@@ -49,6 +49,9 @@ Include all foto material on this repo! Not link images from external links.
 
 Use Markdown for documentation. You can find a [here great introduction to markdown](https://guides.github.com/features/mastering-markdown/) and some [nice tutorials here](https://www.markdowntutorial.com/).
 
+## Examples
+ - [Hackability@Barilla - Artù](https://github.com/HackabilityNPO/HackabilityBarilla17-Artu)
+
 ## Metanotes :O
 
 Anyone can collaborate to this repo by extending this documentation and creating some tutorials on how to create and organize your
